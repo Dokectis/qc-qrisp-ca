@@ -37,3 +37,11 @@ Abstraction Level,Low-Level (Assembly-like),High-Level (Software-like)
 Primary Building Block,Qubits & Gates,Quantum Variables & Functions
 Arithmetic,You must build adder circuits manually.,You simply type a + b.
 Qubit Management,Manual allocation.,Automatic allocation & recycling.
+
+
+Links:
+
+https://qrisp.eu/index.html
+
+https://github.com/eclipse-qrisp/qrisp
+
